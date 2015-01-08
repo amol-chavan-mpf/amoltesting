@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
      
     private Button btnCapturePicture, btnRecordVideo;
   
-    @TargetApi(Build.VERSION_CODES.HONEYCOMB)
+    
 	@SuppressLint("NewApi")
 	@Override
     protected void onCreate(Bundle savedInstanceState) {
